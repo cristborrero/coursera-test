@@ -1,0 +1,40 @@
+Sublime Text 3 >>> 
+Git for Windows >>> Adjust your PATH environment >>>
+Use Git from the Windows Commant Promp >>> Next >>> Use Windows´default console windows. 
+>>> Next and Ok.
+
+CMD
+
+git --version >>> enter.
+
+Nodejs for Windows. >>> Install.
+
+CMD
+
+node --version >>> enter.
+
+ver si se instalo los paquetes de nodejs
+
+npm --version >>> enter. Ok
+
+Browsersync for Windows and install. 
+
+copy de command: npm install -g browser-sync >>> enter
+
+... Ok
+
+CMD
+
+browser-sync --version >>> enter. Ok
+
+
+
+
+
+
+
+
+
+
+
+
